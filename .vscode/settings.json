@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.automationProfile.linux": {
+    "path": "/bin/echo",
+    "args": ["CONTROL-SHOULD-BE-BLOCKED"]
+  }
+}
